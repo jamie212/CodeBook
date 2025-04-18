@@ -1,5 +1,4 @@
 #include "ListNode.h"
-
 using namespace std;
 
 ListNode* reverseList(ListNode* head) {
