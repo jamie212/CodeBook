@@ -1,3 +1,7 @@
+// Time complexity: O(n^2), worst case O(n^2), best case O(n)
+// Space complexity: O(1)
+// Stable sort
+
 #include <iostream>
 #include <vector>
 
@@ -23,3 +27,4 @@ int main(){
     }
     return 0;
 }
+

@@ -1,3 +1,7 @@
+// Time complexity: O(n^2), worst case O(n^2), best case O(n^2)
+// Space complexity: O(1)
+// Not stable sort
+
 #include <iostream>
 #include <vector>
 
@@ -24,3 +28,4 @@ int main(){
         cout << n << " ";
     }
 }
+

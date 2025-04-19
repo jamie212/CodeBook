@@ -1,3 +1,7 @@
+// Time complexity: O(n log n), worst case O(n^2), best case O(n log n)
+// Space complexity: O(log n)
+// Not stable sort
+
 #include <iostream>
 #include <vector>
 
