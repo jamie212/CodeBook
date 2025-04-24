@@ -14,3 +14,12 @@ ListNode* removeNthFromEnd(ListNode* head, int n) {
     toDel->next = toDel->next->next;
     return head;
 }
+
+int main(){
+    ListNode* head = initByForLoop(5);
+    printList(head);
+    head = removeNthFromEnd(head, 2);
+    printList(head);
+    deleteList(head);
+    return 0;
+}
