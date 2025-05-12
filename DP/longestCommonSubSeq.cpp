@@ -1,4 +1,4 @@
-// length of longest subsequence of two strings
+// length of longest subsequence of two strings (not conitiguous)
 #include <iostream>
 #include <vector>
 #include <string>
